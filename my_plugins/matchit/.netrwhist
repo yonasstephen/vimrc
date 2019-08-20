@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/yonas/go/src/source.golabs.io/fraud/jarvis2-backend/view'
+let g:netrw_dirhist_2='/Users/yonas/go/src/source.golabs.io/fraud/jarvis2-backend'
+let g:netrw_dirhist_3='/Users/yonas/go/src/source.golabs.io/fraud/jarvis2-backend/view'
+let g:netrw_dirhist_4='/Users/yonas/go/src/source.golabs.io/fraud/jarvis2-backend/usecase'
+let g:netrw_dirhist_5='/Users/yonas/go/src/source.golabs.io/fraud/jarvis2-backend'
+let g:netrw_dirhist_6='/Users/yonas/go/src/source.golabs.io/fraud/jarvis2-backend/usecase'
+let g:netrw_dirhist_7='/Users/yonas/go/src/source.golabs.io/fraud/jarvis2-backend'
